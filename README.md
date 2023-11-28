@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=leopard-work&color=blue)
+<img src="git.png" alt=""/>&nbsp;
 
 ### 👋 Welcome to my GitHub profile! I'm a Full Stack Developer from Moscow, specializing in Javascript, React and PHP development. 
 
@@ -34,6 +34,8 @@
 [![LeetCode user Vladislav_Z](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FVladislav_Z&logo=leetcode&logoColor=yellow)](https://leetcode.com/Vladislav_Z/) [![Codewars](https://www.codewars.com/users/le0pard/badges/small)](https://www.codewars.com/users/le0pard)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopard-work)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=leopard-work&color=blue)
 
 <!--
 **leopard-work/leopard-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
