@@ -36,10 +36,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopard-work)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Codewars](https://www.codewars.com/users/le0pard/badges/small)](https://www.codewars.com/users/le0pard)-->
+[![Codewars](https://www.codewars.com/users/le0pard/badges/small)](https://www.codewars.com/users/le0pard)
 
 # &nbsp;
-![](https://komarev.com/ghpvc/?username=leopard-work&color=blue) 
+![](https://komarev.com/ghpvc/?username=leopard-work&color=blue) -->
 
 <!--
 **leopard-work/leopard-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
